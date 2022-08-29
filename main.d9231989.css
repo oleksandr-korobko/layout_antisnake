@@ -1,0 +1,2 @@
+.box__block{display:grid;place-content:center;color:#fff;min-width:300px;height:300px}.box__block--1{background-color:red}.box__block--2{background-color:#c00}.box__block--3{background-color:#900}.box__block--4{background-color:#600}.box__block--5{background-color:#300}.box__block--6{background-color:#000}@media (min-width:600px){.box{display:grid;grid-template-columns:repeat(2,auto)}}@media (min-width:900px){.box{display:grid;grid-template-columns:repeat(3,auto)}}html{font-family:Arial,sans-serif;font-size:100px}body{margin:0}
+/*# sourceMappingURL=main.d9231989.css.map */
